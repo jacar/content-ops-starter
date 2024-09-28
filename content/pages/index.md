@@ -13,7 +13,7 @@ sections:
       requisitos de su negocio. (57) 3052891719 Experiencia validada
 
     actions:
-      - label: Get started
+      - label: ¿
         altText: ''
         url: /
         showIcon: false
