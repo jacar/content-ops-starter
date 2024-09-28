@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 15 años de experiencia
       color: text-primary
       type: Badge
     elementId: ''
