@@ -8,10 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Armando Ovalle Jácome
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Siempre estoy en modo de espera / activo para ayudarlo a manejar todos los
+      requisitos de su negocio. (57) 3052891719 Experiencia validada
+
     actions:
       - label: Get started
         altText: ''
